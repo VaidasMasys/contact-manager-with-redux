@@ -1,8 +1,8 @@
-This project was created  with [Create React App](https://github.com/facebook/create-react-app).
+This project was created  with [Create React App](https://www.npmjs.com/package/redux).
 
 ## App description
 
-This is a contact management app. It uses [context](https://reactjs.org/docs/context.html) to pass data through the component tree and [jsonplaceholder](https://jsonplaceholder.typicode.com/) as fake REST API. App is deployed at: https://vaidasmasys.github.io/contact-manager-with-context/#/
+This is a contact management app. It uses [redux](https://reactjs.org/docs/context.html) to pass data through the component tree and [jsonplaceholder](https://jsonplaceholder.typicode.com/) as fake REST API. App is deployed at: https://vaidasmasys.github.io/contact-manager-with-context/#/
 
 ## Available Scripts
 
