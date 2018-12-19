@@ -69,7 +69,6 @@ class EditContact extends Component {
 
   render() {
     const { name, email, phone, errors } = this.state;
-    const { contact } = this.props;
 
     return (
       <div>

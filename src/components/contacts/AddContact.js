@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import TextInputGroup from "../layout/TextInputGroup";
 import { connect } from "react-redux";
 import { addContact } from "../../actions/contactActions";
-import uuid from "uuid";
+
 import PropTypes from "prop-types";
 
 class AddContact extends Component {
